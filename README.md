@@ -11,3 +11,7 @@
        alt="GitHub 统计数据" height="180" />
   <img src="https://count.getloli.com/@weizhizhuangwzz?name=weizhizhuangwzz&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="moe" />
 </p>
+
+### 联系我
+
+邮箱：weizhizhuang@wzzsite.top（不定时上线检查）
