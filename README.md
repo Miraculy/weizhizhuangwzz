@@ -14,4 +14,4 @@
 
 ### 联系我
 
-邮箱：weizhizhuang@wzzsite.top（不定时上线检查）
+邮箱：Miraculy@wzzsite.top（不定时上线检查）
